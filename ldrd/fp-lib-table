@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "BOM_Only")(type "KiCad")(uri "/Users/ziyad/Documents/mariane_project/lib/BOM_Only.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/Users/ziyad/Documents/mariane_project/lib/footprints.pretty")(options "")(descr ""))
+  (lib (name "GCT_USB")(type "KiCad")(uri "/Users/ziyad/Documents/mariane_project/lib/GCT_USB.pretty")(options "")(descr ""))
+  (lib (name "Holes")(type "KiCad")(uri "/Users/ziyad/Documents/mariane_project/lib/Holes.pretty")(options "")(descr ""))
+  (lib (name "LCD_GC9A01")(type "KiCad")(uri "/Users/ziyad/Documents/mariane_project/lib/LCD_GC9A01.pretty")(options "")(descr ""))
+  (lib (name "lilygo_micro32")(type "KiCad")(uri "/Users/ziyad/Documents/mariane_project/lib/lilygo_micro32.pretty")(options "")(descr ""))
+  (lib (name "sk6812")(type "KiCad")(uri "/Users/ziyad/Documents/mariane_project/lib/sk6812.pretty")(options "")(descr ""))
+  (lib (name "SolderPads")(type "KiCad")(uri "/Users/ziyad/Documents/mariane_project/lib/SolderPads.pretty")(options "")(descr ""))
+  (lib (name "usb-c")(type "KiCad")(uri "/Users/ziyad/Documents/mariane_project/lib/usb-c.pretty")(options "")(descr ""))
+)

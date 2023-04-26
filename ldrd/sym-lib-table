@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SK6812")(type "Legacy")(uri "/Users/ziyad/Documents/mariane_project/lib/SK6812.lib")(options "")(descr ""))
+  (lib (name "lilygo_micro32")(type "Legacy")(uri "/Users/ziyad/Documents/mariane_project/lib/lilygo_micro32.lib")(options "")(descr ""))
+)
