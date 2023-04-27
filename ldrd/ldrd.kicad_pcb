@@ -89,7 +89,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "PCBway/")
+      (outputdirectory "drill/")
     )
   )
 
@@ -6064,6 +6064,9 @@
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "3 hours" (at 197 115) (layer "F.SilkS") (tstamp c9858557-3e10-42a5-ae66-4b2f59d9f64b)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "LCD" (at 144.78 81.28) (layer "F.SilkS") (tstamp ca07dd91-da60-417e-a6ba-2d11380d3e8a)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "1 month" (at 122 115) (layer "F.SilkS") (tstamp df78377c-e5d5-4486-88d2-2dc22d95a2e9)
